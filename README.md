@@ -1,5 +1,7 @@
 # Talking To AI-Generated People
-### Fake Faces, Script, Voice and Lip-Sync Animation
+### Fake Faces, Script, Voice and Lip-Sync Animation with Deep Learning
+
+[![ask-fake-ai-karen](https://i.ytimg.com/vi/OCdikmAoLKA/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCjAATDA5I6wPC53JbPIfRY6tPGqg)](https://www.youtube.com/watch?v=OCdikmAoLKA)
 
 This notebook combines different state-of-the-art image and speech generation neural networks into one single Google Colab Notebook so that we can generate a random fake person's talking head video replying to our input text question.
 
