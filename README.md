@@ -1,9 +1,13 @@
-# Talking To AI-Generated People
+# Talking To AI-Generated People [[Project Video](https://www.youtube.com/watch?v=OCdikmAoLKA)] [[Code Tutorial](https://medium.com/@chintan.t93/how-to-create-fake-talking-head-videos-with-deep-learning-code-tutorial-6d82c315529d)]
 ### Fake Faces, Script, Voice and Lip-Sync Animation with Deep Learning
+This notebook combines different state-of-the-art image and speech generation neural networks into one single Google Colab Notebook so that we can generate a random fake person's talking head video replying to our input text question.
 
+![Fake People](res/combined.gif)
+
+
+:-
 [![ask-fake-ai-karen](https://i.ytimg.com/vi/OCdikmAoLKA/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCjAATDA5I6wPC53JbPIfRY6tPGqg)](https://www.youtube.com/watch?v=OCdikmAoLKA)
 
-This notebook combines different state-of-the-art image and speech generation neural networks into one single Google Colab Notebook so that we can generate a random fake person's talking head video replying to our input text question.
 
 #### Different Tools/Repositories used:-
 1) Face Generation - www.thispersondoesnotexist.com - StyleGAN2
