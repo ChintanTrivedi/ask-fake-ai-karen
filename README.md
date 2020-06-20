@@ -4,11 +4,6 @@ This notebook combines different state-of-the-art image and speech generation ne
 
 ![Fake People](res/combined.gif)
 
-
-:-
-[![ask-fake-ai-karen](https://i.ytimg.com/vi/OCdikmAoLKA/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCjAATDA5I6wPC53JbPIfRY6tPGqg)](https://www.youtube.com/watch?v=OCdikmAoLKA)
-
-
 #### Different Tools/Repositories used:-
 1) Face Generation - www.thispersondoesnotexist.com - StyleGAN2
 2) Text Generation - www.textsynth.org - OpenAI GPT-2
