@@ -8,7 +8,7 @@ This notebook combines different state-of-the-art image and speech generation ne
 #### Different Tools/Repositories used:-
 1) Face Generation - www.thispersondoesnotexist.com - StyleGAN2
 2) Text Generation - www.textsynth.org - OpenAI GPT-2
-3) Speech-to-Text Conversion - https://github.com/NVIDIA/flowtron - Flowtron
+3) Text-to-Speech Conversion - https://github.com/NVIDIA/flowtron - Flowtron
 4) Lip Animation - https://github.com/Rudrabha/LipGAN - LipGAN
 
 #### TODO Improvements (Any Volunteers??) :-
